@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inna-vogel
 - 👀 I’m interested in NLP and machine larning
 - 🌱 I’m currently learning NER, Fake News Detection and other tasks 
-- 📫 How to reach me: inna.vogel@sit.fraunhofer.de
+- 📫 How to reach me: https://www.linkedin.com/in/inna-vogel-nlp
 
 <!---
 inna-vogel/inna-vogel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
